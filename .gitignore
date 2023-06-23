@@ -1,0 +1,6 @@
+/vendor/
+/public/storage/
+/node_modules/
+/app/Diavox/
+.env
+.phpstorm.meta.php
